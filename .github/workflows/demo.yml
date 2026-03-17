@@ -6,6 +6,6 @@ jobs:
 
           steps: 
            - name: Print message
-             run: echo  "Hello , welcom to my first action"
+             run: echo  "Hello, welcom to github actions"
 
 
